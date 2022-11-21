@@ -3,7 +3,8 @@ body {
   background: url("https://i.ibb.co/6nxjHdC/12343124-removebg-preview.png"), linear-gradient(3deg, rgb(181 181 211) 0%, rgba(0,212,255,1) 100%);
   background-size: cover;
   background-size: contain;
-  background-repeat: round;
+  background-position: right;
+  background-repeat: repeat-y;
 }
 
 .box {
