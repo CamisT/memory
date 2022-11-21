@@ -2,7 +2,7 @@ main {
   display: flex;
   flex-direction: column;
   width: 100%;
-  background-image: url('../images/bg.jpg');
+  background-image: url("https://wallpapercave.com/wp/wp2291112.jpg");
   background-size: cover;
   min-height: 100vh;
   align-items: center;
@@ -58,7 +58,7 @@ header {
 }
 
 .back {
-  background-image: url('../images/back.png');
+  background-image: url("https://static.e-bordados.net/img/produtos/default/1533081.jpg");
   backface-visibility: hidden;
 }
 

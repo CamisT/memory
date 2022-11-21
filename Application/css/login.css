@@ -1,3 +1,23 @@
+body {
+  background-color: rgb(164, 221, 221);
+  background: url("https://i.ibb.co/6nxjHdC/12343124-removebg-preview.png"), linear-gradient(3deg, rgb(181 181 211) 0%, rgba(0,212,255,1) 100%);
+  background-size: cover;
+  background-size: contain;
+  background-repeat: round;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #aaa;
+    border: 1px solid rgb(3, 3, 3);
+    border-radius: 11px;
+    padding: 50px;
+    margin: 20px;
+  }
+
 .login-form {
   align-items: center;
   display: flex;
@@ -15,7 +35,7 @@
 }
 
 .login__header img {
-  width: 100px;
+  width: 200px;
 }
 
 .login__header h1 {
