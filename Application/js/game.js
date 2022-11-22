@@ -8,7 +8,7 @@ const characters = [
   'jailson',
   'perna',
   'garoto',
-  'burn',
+  'therock',
   'doge',
   'grand',
   'lucas',
